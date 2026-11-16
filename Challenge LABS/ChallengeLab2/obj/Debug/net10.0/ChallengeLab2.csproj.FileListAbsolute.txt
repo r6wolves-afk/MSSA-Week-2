@@ -1,0 +1,14 @@
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\bin\Debug\net10.0\ChallengeLab2.exe
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\bin\Debug\net10.0\ChallengeLab2.deps.json
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\bin\Debug\net10.0\ChallengeLab2.runtimeconfig.json
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\bin\Debug\net10.0\ChallengeLab2.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\bin\Debug\net10.0\ChallengeLab2.pdb
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.AssemblyInfoInputs.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.AssemblyInfo.cs
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.csproj.CoreCompileInputs.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\refint\ChallengeLab2.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.pdb
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.genruntimeconfig.cache
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ref\ChallengeLab2.dll
