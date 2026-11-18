@@ -12,3 +12,4 @@ C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\Ch
 C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.pdb
 C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.genruntimeconfig.cache
 C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ref\ChallengeLab2.dll
+C:\Users\Jaceo\Desktop\MSSA CAD24\MSSA Assignments\MSSA Week 2\Challenge LABS\ChallengeLab2\obj\Debug\net10.0\ChallengeLab2.sourcelink.json
